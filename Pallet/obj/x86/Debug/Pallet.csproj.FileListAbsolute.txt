@@ -1,0 +1,8 @@
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Pallet\Pallet\bin\Debug\Pallet.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Pallet\Pallet\bin\Debug\Pallet.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Pallet\Pallet\obj\x86\Debug\Pallet.Etiqueta.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Pallet\Pallet\obj\x86\Debug\Pallet.Properties.Resources.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Pallet\Pallet\obj\x86\Debug\Pallet.csproj.GenerateResource.Cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Pallet\Pallet\obj\x86\Debug\Pallet.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Pallet\Pallet\obj\x86\Debug\Pallet.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Pallet\Pallet\bin\Debug\Pallet.exe.config

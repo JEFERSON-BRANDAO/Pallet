@@ -1,0 +1,2 @@
+LABEL1:ZDesigner ZT230-200dpi ZPL
+LABEL2:ZDesigner GC420t (EPL)
